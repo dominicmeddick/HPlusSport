@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:1606",
-      "sslPort": 44362
+      "applicationUrl": "http://localhost:63352",
+      "sslPort": 44315
     }
   },
   "profiles": {
@@ -13,7 +13,9 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "weatherforecast",
-      "environmentVariables":
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
     },
     "HPlusSport.API": {
       "commandName": "Project",
