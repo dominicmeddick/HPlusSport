@@ -1,20 +1,21 @@
 ﻿<Properties StartupConfiguration="{CAEE44BC-431A-4B17-AA84-A4A254FD2B63}|Default">
   <MonoDevelop.Ide.ItemProperties.HPlusSport.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HPlusSport.API/Properties/launchSettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HPlusSport.API/Models/Product.cs">
     <Files>
-      <File FileName="HPlusSport.API/Controllers/ProductController.cs" Line="13" Column="6" />
+      <File FileName="HPlusSport.API/Controllers/ProductController.cs" Line="12" Column="14" />
       <File FileName="HPlusSport.API/Startup.cs" Line="1" Column="1" />
       <File FileName="HPlusSport.API/Program.cs" Line="1" Column="1" />
-      <File FileName="HPlusSport.API/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="HPlusSport.API/Properties/launchSettings.json" Line="1" Column="2" />
+      <File FileName="HPlusSport.API/Models/Category.cs" Line="16" Column="1" />
+      <File FileName="HPlusSport.API/Models/Product.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HPlusSport" expanded="True">
             <Node name="HPlusSport.API" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True">
-                <Node name="launchSettings.json" selected="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Product.cs" selected="True" />
               </Node>
             </Node>
           </Node>
